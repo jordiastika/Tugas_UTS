@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_4</string>
+    <string name="cabriolet_name">Nama Mobil </string>
+    <string name="spesifikasi">Spesifikasi mobil</string>
+    <string name="List">List</string>
+    <string name="Grid">Grid</string>
+    <string name="Cardview">CardView</string>
+    <string name="listspesifikasi">list spesifikasi</string>
+
+</resources>
